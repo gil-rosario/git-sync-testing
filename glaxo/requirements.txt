@@ -1,0 +1,11 @@
+--trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org
+JayDeBeApi
+apache-airflow-providers-ssh==3.1.0
+apache-airflow-providers-databricks==3.2.0
+apache-airflow-providers-elasticsearch==4.2.0
+apache-airflow-providers-jdbc==3.2.0
+apache-airflow-providers-snowflake==3.2.0
+apache-airflow-providers-microsoft-azure==4.2.0
+apache-airflow-providers-microsoft-mssql==3.2.0
+apache-airflow-providers-odbc==3.1.1
+#astronomer-fab-security-manager==1.8.4
